@@ -1,0 +1,6 @@
+
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:#071225;color:#eef6ff;line-height:1.65}
+main{max-width:920px;margin:0 auto;padding:48px 24px 80px}.brand{display:flex;align-items:center;gap:14px}.brand img{width:54px;height:54px;border-radius:14px}
+h1{font-size:42px;margin:28px 0 10px}h2{margin-top:36px;color:#93c5fd}p,li{color:#cbdaf0}a{color:#60a5fa}
+.card{background:#0e1d34;border:1px solid #203754;border-radius:16px;padding:22px;margin:24px 0}.button{display:inline-block;background:#2563eb;color:#fff;padding:11px 16px;border-radius:10px;text-decoration:none;font-weight:700}
+footer{margin-top:60px;border-top:1px solid #203754;padding-top:20px;color:#8197b5;font-size:14px}
